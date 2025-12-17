@@ -24,5 +24,4 @@ ACPI brightness handling.
 Small fixes.
 Little decisions I don’t fully remember anymore.
 
-That missing context is one of the reasons
-I’m starting this journey now.
+That missing context is why I’m starting this journey now.
